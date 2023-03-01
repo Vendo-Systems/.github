@@ -14,7 +14,7 @@ Our software booking system product offers a variety of features, including:
 
 ## Getting Started
 
-To get started with Vendo, simply visit our website at [www.vendo.com](http://www.vendo.com) and sign up for a free trial. Once you've signed up, you'll be able to explore all of the features of our software booking system and see how it can help your business streamline its booking processes.
+To get started with Vendo, simply visit our website at [www.my-vendo.com](http://www.my-vendo.com) and sign up for a free trial. Once you've signed up, you'll be able to explore all of the features of our software booking system and see how it can help your business streamline its booking processes.
 
 ## Support
 
