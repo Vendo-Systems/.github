@@ -9,7 +9,7 @@ Our software booking system product offers a variety of features, including:
 - Easy booking management
 - Customizable booking pages
 - Automated reminders and notifications
-- Integrations with popular calendar and payment systems
+- Integrations with popular calendar and social media
 - Comprehensive reporting and analytics
 
 ## Getting Started
