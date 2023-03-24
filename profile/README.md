@@ -1,6 +1,6 @@
 ## Vendo is a software company that specializes in providing top-notch software booking system solutions for businesses.
 
-![image](https://user-images.githubusercontent.com/70757499/222150931-da0122da-8be6-4217-91b9-385158428825.png)
+![image](https://user-images.githubusercontent.com/70757499/227530517-ea2a2c32-8b99-4bc0-9c65-22ec2ecf8eb0.png)
 
 ## Features
 
