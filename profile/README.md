@@ -1,4 +1,4 @@
-## Vendo is a software company that specializes in providing top-notch software booking system solutions for businesses.
+<h1 align="center"> Vendo is a software company that specializes in providing top-notch software booking system solutions for businesses. </h1>
 
 ![image](https://user-images.githubusercontent.com/70757499/227530517-ea2a2c32-8b99-4bc0-9c65-22ec2ecf8eb0.png)
 
